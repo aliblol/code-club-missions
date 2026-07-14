@@ -1,5 +1,6 @@
 ---
 title: Code Club Missions
+layout: home
 ---
 
 # Code Club Missions

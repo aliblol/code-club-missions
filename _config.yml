@@ -3,3 +3,9 @@ baseurl: ""
 theme: minima
 plugins:
   - jekyll-feed
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: page
