@@ -1,13 +1,11 @@
 title: Code Club Missions
-baseurl: ""
-theme: just-the-docs
+
 remote_theme: just-the-docs/just-the-docs
-color_scheme: dark
+
+url: "https://aliblol.github.io"
+baseurl: "/code-club-missions"
+
 plugins:
-  - jekyll-feed
-defaults:
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: page
+  - jekyll-remote-theme
+
+search_enabled: true
