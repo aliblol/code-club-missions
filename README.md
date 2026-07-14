@@ -56,6 +56,23 @@ Each mission follows the same format.
 
 This makes sessions resilient to cancelled meetings and inconsistent attendance.
 
+## Repository structure
+
+The repo is organised so each mission is also a standalone MakeCode project.
+
+- `missions/<mission-name>/`
+  - `pxt.json` — MakeCode package metadata
+  - `main.ts` — starter TypeScript source
+  - `main.blocks` — starter blocks project file
+  - `README.md` — mission overview for learners
+  - `teacher-notes.md` — volunteer/teacher instructions
+  - `worksheet.md` — mission worksheet
+  - `extension.md` — optional extensions
+  - `starter.hex`, `solution.hex` — downloadable project files
+  - `test.ts` — optional project tests
+
+This layout keeps GitHub Pages-friendly URLs for each mission and preserves MakeCode import compatibility.
+
 ## Who is this for?
 
 - Primary schools

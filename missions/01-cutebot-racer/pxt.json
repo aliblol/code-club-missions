@@ -1,0 +1,17 @@
+{
+  "name": "cutebot-racer",
+  "description": "CuteBot Racer starter project",
+  "dependencies": {
+    "core": "*",
+    "microbit": "*"
+  },
+  "files": [
+    "README.md",
+    "main.ts",
+    "main.blocks",
+    "test.ts"
+  ],
+  "targetVersions": {
+    "branch": "v3.0.0"
+  }
+}
