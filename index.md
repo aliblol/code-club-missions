@@ -5,32 +5,62 @@ layout: home
 
 # Code Club Missions
 
-A mission-based coding club curriculum designed for Year 5 and Year 6 pupils.
+A volunteer-friendly coding club resource platform for Year 5 and Year 6 pupils.
 
-## How it works
+## Overview
 
-Each mission lives in its own folder under `missions/` and is structured so it can be imported into MakeCode as a standalone project.
+This project helps schools and volunteers run an easy, repeatable, and resilient lunchtime coding club. Instead of following a rigid weekly lesson plan, the club is organised around self-contained missions that children can join at any point and still complete a meaningful activity.
 
-### Mission structure
+## Core projects
 
-- `missions/<mission-name>/`
-  - `README.md` — mission overview and student-facing instructions
-  - `teacher-notes.md` — volunteer/teacher support notes
-  - `starter.hex` — starter project download
-  - `solution.hex` — example solution download
-  - `worksheet.md` — worksheet or activity sheet
-  - `extension.md` — optional extension/challenge ideas
-  - `pxt.json` — MakeCode package metadata
-  - `main.ts` — starter TypeScript code
-  - `main.blocks` — starter blocks project file
-  - `test.ts` — optional tests or runtime checks
+### 🏎️ CuteBot Racer
 
-## Missions
+Children program micro:bit-powered CuteBot robots and develop racing features.
+
+Example missions include:
+
+- First Drive
+- Turbo Mode
+- Robot Dance
+- Obstacle Avoidance
+- Autonomous Racing
+
+### 🎮 Micro:bit Arcade
+
+Children learn game development by creating their own games.
+
+Example missions include:
+
+- Create a Character
+- Scoring Systems
+- Enemies and Levels
+- Power-ups
+- Sound Effects
+
+## Mission format
+
+Every mission contains:
+
+- Mission story or challenge
+- Learning objectives
+- Required equipment
+- Starter code
+- Step-by-step activity
+- Bronze, Silver, and Gold challenges
+- Volunteer guidance
+- Troubleshooting tips
+
+Each activity is designed to fit into a short club session of about 25 minutes.
+
+## Design principles
+
+- Drop-in learning: missions work well even if children join late or miss a week
+- Different abilities: beginners and confident coders can both take part
+- Volunteer friendly: a volunteer can pick up a mission quickly
+- Creativity over copying: children are encouraged to adapt and improve their ideas
+
+## Featured missions
 
 - [Mission 01: CuteBot Racer](missions/01-cutebot-racer/)
 - [Mission 02: CuteBot Wireless Controller](missions/02-cutebot-controller/)
 - [Mission 03: CuteBot Wireless Receiver](missions/03-cutebot-receiver/)
-
-## Notes
-
-GitHub Pages will publish this site and each mission folder at a stable URL, while each mission folder remains an importable MakeCode project.

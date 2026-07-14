@@ -1,6 +1,7 @@
 title: Code Club Missions
 baseurl: ""
-theme: minima
+theme: just-the-docs
+color_scheme: dark
 plugins:
   - jekyll-feed
 defaults:
