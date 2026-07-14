@@ -33,7 +33,7 @@ Program your Cutebot to move around and complete a simple journey.
 
 - 🤖 Cutebot
 - 🟦 micro:bit
-- 💻 MakeCode
+- 💻 [MakeCode](https://makecode.microbit.org/_HoyXTX7eUJ0j)
 
 ---
 
@@ -149,3 +149,9 @@ Can another team:
 You have taught your Cutebot how to move.
 
 Next mission: make your robot smarter!
+
+## Useful Links
+
+- [Cutebot - moving forwards and backwards](https://wiki.elecfreaks.com/en/microbit/microbit-smart-car/microbit-smart-cutebot/cutebot_case01)
+- [Cutebot - Speed up gradually](https://wiki.elecfreaks.com/en/microbit/microbit-smart-car/microbit-smart-cutebot/cutebot_case02)
+- [Cutebot - Dance in figure-of-eight](https://wiki.elecfreaks.com/en/microbit/microbit-smart-car/microbit-smart-cutebot/cutebot_case03)
