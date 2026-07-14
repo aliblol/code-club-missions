@@ -8,4 +8,11 @@ baseurl: "/code-club-missions"
 plugins:
   - jekyll-remote-theme
 
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: default
+
 search_enabled: true
