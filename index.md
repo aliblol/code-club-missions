@@ -27,7 +27,9 @@ Each mission lives in its own folder under `missions/` and is structured so it c
 ## Missions
 
 - [Mission 01: CuteBot Racer](missions/01-cutebot-racer/)
+- [Mission 02: CuteBot Wireless Controller](missions/02-cutebot-controller/)
+- [Mission 03: CuteBot Wireless Receiver](missions/03-cutebot-receiver/)
 
 ## Notes
 
-GitHub Pages will publish this site and each mission page at a stable URL, while each mission folder remains an importable MakeCode project.
+GitHub Pages will publish this site and each mission folder at a stable URL, while each mission folder remains an importable MakeCode project.
