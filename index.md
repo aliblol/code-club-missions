@@ -58,9 +58,3 @@ Each activity is designed to fit into a short club session of about 25 minutes.
 - Different abilities: beginners and confident coders can both take part
 - Volunteer friendly: a volunteer can pick up a mission quickly
 - Creativity over copying: children are encouraged to adapt and improve their ideas
-
-## Featured missions
-
-- [Mission 01: Wake up CuteBot!](missions/01-wake-up-cutebot/)
-- [Mission 02: CuteBot Wireless Controller](missions/02-cutebot-controller/)
-- [Mission 03: CuteBot Wireless Receiver](missions/03-cutebot-receiver/)

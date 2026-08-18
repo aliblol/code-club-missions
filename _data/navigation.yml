@@ -1,0 +1,60 @@
+-
+  title: Home
+  url: /
+-
+  title: Missions
+  items:
+    - title: Mission 1 — Wake Up Your Cutebot
+      url: /code-club-missions/missions/01-wake-up-cutebot/
+      items:
+        - title: Student Guide
+          url: /code-club-missions/missions/01-wake-up-cutebot/student-guide/
+        - title: Teacher Guide
+          url: /code-club-missions/missions/01-wake-up-cutebot/teacher-guide/
+        - title: Code examples
+          url: /code-club-missions/missions/01-wake-up-cutebot/code/
+    - title: Mission 2 — Robot Navigator
+      url: /code-club-missions/missions/02-cutebot-controller/
+      items:
+        - title: Student Guide
+          url: /code-club-missions/missions/02-cutebot-controller/student-guide/
+        - title: Teacher Guide
+          url: /code-club-missions/missions/02-cutebot-controller/teacher-guide/
+        - title: Code examples
+          url: /code-club-missions/missions/02-cutebot-controller/code/
+    - title: Mission 3 — Don't Crash!
+      url: /code-club-missions/missions/03-cutebot-receiver/
+      items:
+        - title: Student Guide
+          url: /code-club-missions/missions/03-cutebot-receiver/student-guide/
+        - title: Teacher Guide
+          url: /code-club-missions/missions/03-cutebot-receiver/teacher-guide/
+        - title: Code examples
+          url: /code-club-missions/missions/03-cutebot-receiver/code/
+    - title: Mission 4 — Stay on Track
+      url: /code-club-missions/missions/04-stay-on-track/
+      items:
+        - title: Student Guide
+          url: /code-club-missions/missions/04-stay-on-track/student-guide/
+        - title: Teacher Guide
+          url: /code-club-missions/missions/04-stay-on-track/teacher-guide/
+        - title: Code examples
+          url: /code-club-missions/missions/04-stay-on-track/code/
+    - title: Mission 5 — Robot Rescue
+      url: /code-club-missions/missions/05-robot-rescue/
+      items:
+        - title: Student Guide
+          url: /code-club-missions/missions/05-robot-rescue/student-guide/
+        - title: Teacher Guide
+          url: /code-club-missions/missions/05-robot-rescue/teacher-guide/
+        - title: Code examples
+          url: /code-club-missions/missions/05-robot-rescue/code/
+    - title: Mission 6 — CuteBot Grand Challenge
+      url: /code-club-missions/missions/06-grand-challenge/
+      items:
+        - title: Student Guide
+          url: /code-club-missions/missions/06-grand-challenge/student-guide/
+        - title: Teacher Guide
+          url: /code-club-missions/missions/06-grand-challenge/teacher-guide/
+        - title: Code examples
+          url: /code-club-missions/missions/06-grand-challenge/code/
