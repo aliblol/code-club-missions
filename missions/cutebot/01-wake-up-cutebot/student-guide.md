@@ -1,5 +1,5 @@
 ---
-title: "Session 1 — Student Guide"
+title: "Student Guide"
 session: 1
 parent: Mission 1 — Wake Up Your Cutebot
 ---
@@ -15,6 +15,8 @@ Make the Cutebot move reliably and learn how small changes to parameters change 
 Today we're learning about:
 
 **Sequence and parameters**
+
+This means we are learning how to plan instructions in the correct order and tune the values that control movement so the robot behaves as expected.
 
 ---
 

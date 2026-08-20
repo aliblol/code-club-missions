@@ -1,5 +1,5 @@
 ---
-title: "Session 4 — Student Guide"
+title: "Student Guide"
 session: 4
 parent: Mission 4 — Stay on Track
 ---
@@ -15,6 +15,8 @@ Program the Cutebot to follow a black line using its line-tracking sensors.
 Today we're learning about:
 
 **Iteration and sensor-based decisions**
+
+This means we are learning how repeated testing and feedback from the line sensors help us adjust the robot so it stays on track.
 
 ---
 

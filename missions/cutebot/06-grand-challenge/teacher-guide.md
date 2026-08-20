@@ -1,5 +1,5 @@
 ---
-title: "Session 6 — Teacher Guide"
+title: "Teacher Guide"
 session: 6
 parent: Mission 6 — CuteBot Grand Challenge
 ---

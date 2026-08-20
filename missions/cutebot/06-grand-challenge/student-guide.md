@@ -1,5 +1,5 @@
 ---
-title: "Session 6 — Student Guide"
+title: "Student Guide"
 session: 6
 parent: Mission 6 — CuteBot Grand Challenge
 ---
@@ -15,6 +15,8 @@ Design and implement an autonomous delivery robot that navigates to a delivery z
 Today we're learning about:
 
 **Algorithms, decomposition, debugging and optimisation**
+
+This means we are learning how to break a big problem into smaller parts, test solutions carefully, and improve the design until it works reliably.
 
 ---
 

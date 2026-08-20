@@ -1,5 +1,5 @@
 ---
-title: "Session 2 — Teacher Guide"
+title: "Teacher Guide"
 session: 2
 parent: Mission 2 — Robot Navigator
 ---

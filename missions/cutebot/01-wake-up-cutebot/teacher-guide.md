@@ -1,5 +1,5 @@
 ---
-title: "Session 1 — Teacher Guide"
+title: "Teacher Guide"
 session: 1
 parent: Mission 1 — Wake Up Your Cutebot
 ---

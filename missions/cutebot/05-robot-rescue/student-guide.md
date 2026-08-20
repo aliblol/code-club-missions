@@ -1,5 +1,5 @@
 ---
-title: "Session 5 — Student Guide"
+title: "Student Guide"
 session: 5
 parent: Mission 5 — Robot Rescue
 ---
@@ -15,6 +15,8 @@ Combine movement, sensors and variables to find and signal a rescue.
 Today we're learning about:
 
 **Combining concepts and using variables**
+
+This means we are learning how to bring different ideas together in one program and store information so the robot can react to changing conditions.
 
 ---
 

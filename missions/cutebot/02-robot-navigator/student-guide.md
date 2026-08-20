@@ -1,5 +1,5 @@
 ---
-title: "Session 2 — Student Guide"
+title: "Student Guide"
 session: 2
 parent: Mission 2 — Robot Navigator
 ---
@@ -15,6 +15,8 @@ Use loops to make the Cutebot follow a planned route using fewer blocks.
 Today we're learning about:
 
 **Loops and algorithms**
+
+This means we are learning how to repeat steps in a smart way and plan a route so the robot follows a clear sequence of actions.
 
 ---
 

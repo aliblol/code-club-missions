@@ -1,5 +1,5 @@
 ---
-title: "Session 3 — Student Guide"
+title: "Student Guide"
 session: 3
 parent: Mission 3 — Don't Crash!
 ---
@@ -15,6 +15,8 @@ Make the Cutebot stop or avoid obstacles using a distance sensor.
 Today we're learning about:
 
 **Conditions and sensors**
+
+This means we are learning how a robot can check what is around it and make decisions using sensor information to respond safely.
 
 ---
 

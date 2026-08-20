@@ -1,5 +1,5 @@
 ---
-title: "Session 4 — Teacher Guide"
+title: "Teacher Guide"
 session: 4
 parent: Mission 4 — Stay on Track
 ---
