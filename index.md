@@ -5,56 +5,58 @@ layout: home
 
 # Code Club Missions
 
-A volunteer-friendly coding club resource platform for Year 5 and Year 6 pupils.
+A mission-based coding club curriculum designed for Year 5 and Year 6 pupils.
 
 ## Overview
 
-This project helps schools and volunteers run an easy, repeatable, and resilient lunchtime coding club. Instead of following a rigid weekly lesson plan, the club is organised around self-contained missions that children can join at any point and still complete a meaningful activity.
+This project helps schools and volunteers run a flexible, repeatable coding club. Instead of following a rigid weekly plan, the curriculum is organised into self-contained missions so children can join at any point and still complete a meaningful challenge.
+This project is under development hoping to get the first set of missions ready by september.
 
 ## Core projects
 
-### 🏎️ CuteBot Racer
+### 🤖 Cutebot
 
-Children program micro:bit-powered CuteBot robots and develop racing features.
+Children program CuteBot robots to move, sense, and solve problems.
 
-Example missions include:
+Mission topics include:
 
-- First Drive
-- Turbo Mode
-- Robot Dance
-- Obstacle Avoidance
-- Autonomous Racing
+- Wake up and control the robot
+- Follow paths and navigate
+- Detect and avoid obstacles
+- Stay on track using sensors
+- Rescue and recovery tasks
+- Complete a final grand challenge
 
-### 🎮 Micro:bit Arcade
+### 🎮 MakeCode Arcade
 
-Children learn game development by creating their own games.
+Children design and build their own retro-inspired games.
 
-Example missions include:
+Mission topics include:
 
-- Create a Character
-- Scoring Systems
-- Enemies and Levels
-- Power-ups
-- Sound Effects
+- Sprites and movement
+- Events and user input
+- Variables and scoring
+- Collision detection
+- Game loops and levels
+- Play testing and improvements
 
 ## Mission format
 
-Every mission contains:
+Each mission contains:
 
-- Mission story or challenge
-- Learning objectives
-- Required equipment
-- Starter code
-- Step-by-step activity
-- Bronze, Silver, and Gold challenges
-- Volunteer guidance
-- Troubleshooting tips
+- Mission landing page
+- Student guide
+- Teacher guide
+- Starter MakeCode project files
+- Challenge-based tasks
+- Reflection prompts
+- Extension ideas
 
-Each activity is designed to fit into a short club session of about 25 minutes.
+This structure supports short club sessions and mixed attendance.
 
 ## Design principles
 
-- Drop-in learning: missions work well even if children join late or miss a week
-- Different abilities: beginners and confident coders can both take part
-- Volunteer friendly: a volunteer can pick up a mission quickly
-- Creativity over copying: children are encouraged to adapt and improve their ideas
+- Drop-in learning: children can join at different times and still take part
+- Clear progression: each mission builds on the last one
+- Volunteer friendly: each task has a simple teacher guide
+- Creativity and problem solving: pupils are encouraged to experiment and improve their solutions
