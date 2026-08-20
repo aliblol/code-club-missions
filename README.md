@@ -13,19 +13,20 @@ The activities were created for a volunteer-led lunchtime coding club, where att
 
 ## Projects
 
-### 🏎️ CuteBot Racer
+### 🤖 Cutebot
 
-Learn programming by building and improving a robot race car.
+Learn programming by building and improving a robot that moves, reacts to sensors, and solves real-world tasks.
 
 Topics include:
 
 - Inputs & outputs
 - Loops
 - Variables
-- Functions
+- Conditions
 - Sensors
 - Algorithms
 - Debugging
+- Problem solving
 
 ### 🎮 MakeCode Arcade
 
@@ -43,35 +44,42 @@ Topics include:
 
 ## Mission Structure
 
-Each mission follows the same format.
+Each Cutebot mission follows the same structure.
 
-- Story
-- Learning objective
-- Starter code
-- Bronze challenge
-- Silver challenge
-- Gold challenge
-- Extension ideas
-- Volunteer notes
+- Mission landing page
+- Student guide
+- Teacher guide
+- MakeCode starter project files
+- Challenge-based activities
+- Reflection and extension ideas
 
-This makes sessions resilient to cancelled meetings and inconsistent attendance.
+This makes the club resilient to cancelled sessions, different attendance patterns, and mixed ability groups.
 
 ## Repository structure
 
-The repo is organised so each mission is also a standalone MakeCode project.
+This project uses a Jekyll site with nested mission pages, while each mission also remains a standalone MakeCode project.
 
-- `missions/<mission-name>/`
-  - `pxt.json` — MakeCode package metadata
-  - `main.ts` — starter TypeScript source
-  - `main.blocks` — starter blocks project file
-  - `README.md` — mission overview for learners
-  - `teacher-notes.md` — volunteer/teacher instructions
-  - `worksheet.md` — mission worksheet
-  - `extension.md` — optional extensions
-  - `starter.hex`, `solution.hex` — downloadable project files
-  - `test.ts` — optional project tests
+- `README.md` — project overview
+- `_config.yml` — Jekyll site configuration
+- `Gemfile` — Ruby dependencies
+- `index.md` — homepage
+- `missions/`
+  - `cutebot/`
+    - `index.md` — project landing page
+    - `00-mission-template/` — reusable template for future missions
+      - `index.md` — mission overview
+      - `student-guide.md` — learner instructions
+      - `teacher-guide.md` — volunteer guidance
+    - `01-wake-up-cutebot/` — mission folder
+      - `index.md`
+      - `student-guide.md`
+      - `teacher-guide.md`
+      - `pxt.json`
+      - `main.ts`
+      - `main.blocks`
+      - `test.ts`
 
-This layout keeps GitHub Pages-friendly URLs for each mission and preserves MakeCode import compatibility.
+The site uses nested parent/child pages so the sidebar shows the project, then each mission, then the student and teacher guides for that mission.
 
 ## Who is this for?
 
