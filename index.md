@@ -7,6 +7,8 @@ layout: home
 
 A mission-based coding club curriculum designed for Year 5 and Year 6 pupils.
 
+> Want to improve this project? You can suggest new missions, fix issues, or contribute resources on GitHub: [Contribute on GitHub](https://github.com/aliblol/code-club-missions).
+
 ## Overview
 
 This project helps schools and volunteers run a flexible, repeatable coding club. Instead of following a rigid weekly plan, the curriculum is organised into self-contained missions so children can join at any point and still complete a meaningful challenge.

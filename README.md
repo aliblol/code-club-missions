@@ -81,6 +81,31 @@ This project uses a Jekyll site with nested mission pages, while each mission al
 
 The site uses nested parent/child pages so the sidebar shows the project, then each mission, then the student and teacher guides for that mission.
 
+## Local setup
+
+To run the site locally on your machine:
+
+1. Install Ruby and Bundler if they are not already installed.
+2. In the project folder, run:
+
+   ```bash
+   bundle install
+   ```
+
+3. Start the local Jekyll site:
+
+   ```bash
+   bundle exec jekyll serve --livereload
+   ```
+
+4. Open the site in your browser at:
+
+   ```text
+   http://localhost:4000/code-club-missions/
+   ```
+
+If you change content, Jekyll will rebuild the site automatically when using `--livereload`.
+
 ## Who is this for?
 
 - Primary schools

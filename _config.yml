@@ -16,3 +16,7 @@ defaults:
       layout: default
 
 search_enabled: true
+
+aux_links:
+  "Contribute on GitHub": "https://github.com/aliblol/code-club-missions"
+aux_links_new_tab: true
