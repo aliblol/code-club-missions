@@ -1,10 +1,10 @@
 ---
 title: "Student Guide"
 lesson: 1
-parent: Lesson 1 — Player and Movement
+parent: "Coin Collector — Mission 1 — Player and Movement"
 ---
 
-# Lesson 1: Player and Movement
+# Mission 1: Player and Movement
 
 ## 🎯 Your mission
 
@@ -86,7 +86,7 @@ You've got a moving player! Now try:
 
 ---
 
-## 🏁 Lesson complete!
+## 🏁 Mission complete!
 
 I can...
 

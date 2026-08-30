@@ -1,11 +1,11 @@
 ---
-title: "Lesson 1 — Player and Movement"
+title: "Apple Catch — Mission 1 — Player and Movement"
 layout: default
-parent: Arcade Game 2 — Apple Catch
+parent: "Apple Catch"
 nav_order: 1
 ---
 
-# Lesson 1 — Player and Movement
+# Mission 1 — Player and Movement
 
 **Game:** Apple Catch  
 **Time:** 45–60 minutes  
@@ -18,13 +18,6 @@ nav_order: 1
 In Apple Catch the player stands at the bottom of the screen and things fall towards them from the top. Today students create the player sprite and set up left/right-only movement with wall bounce.
 
 This is the foundation the rest of the game is built on.
-
----
-
-## Guides
-
-- [Student Guide](student-guide.md)
-- [Teacher Guide](teacher-guide.md)
 
 ---
 

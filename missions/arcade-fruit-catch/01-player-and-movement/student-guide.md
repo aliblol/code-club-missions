@@ -1,10 +1,10 @@
 ---
 title: "Student Guide"
 lesson: 1
-parent: Lesson 1 — Player and Movement
+parent: "Apple Catch — Mission 1 — Player and Movement"
 ---
 
-# Lesson 1: Player and Movement
+# Mission 1: Player and Movement
 
 ## 🎯 Your mission
 
@@ -75,7 +75,7 @@ There is no single right answer.
 
 ---
 
-## 🏁 Lesson complete!
+## 🏁 Mission complete!
 
 I can...
 

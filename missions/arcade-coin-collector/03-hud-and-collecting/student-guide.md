@@ -1,10 +1,10 @@
 ---
 title: "Student Guide"
 lesson: 3
-parent: Lesson 3 — HUD and Collecting
+parent: "Coin Collector — Mission 3 — HUD and Collecting"
 ---
 
-# Lesson 3: HUD and Collecting
+# Mission 3: HUD and Collecting
 
 ## 🎯 Your mission
 
@@ -79,7 +79,7 @@ There is no single right answer.
 
 ---
 
-## 🏁 Lesson complete!
+## 🏁 Mission complete!
 
 I can...
 

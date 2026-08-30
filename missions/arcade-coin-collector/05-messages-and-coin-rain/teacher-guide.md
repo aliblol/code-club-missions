@@ -1,7 +1,7 @@
 ---
 title: "Teacher Guide"
 lesson: 5
-parent: Lesson 5 — Messages and Coin Rain
+parent: "Coin Collector — Mission 5 — Messages and Coin Rain"
 ---
 
 # Teacher Guide — Lesson 5: Messages and Coin Rain

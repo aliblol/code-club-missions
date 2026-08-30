@@ -1,7 +1,7 @@
 ---
 title: "Teacher Guide"
 lesson: 3
-parent: Lesson 3 — HUD and Collecting
+parent: "Coin Collector — Mission 3 — HUD and Collecting"
 ---
 
 # Teacher Guide — Lesson 3: HUD and Collecting

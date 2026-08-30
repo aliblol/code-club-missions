@@ -1,10 +1,10 @@
 ---
 title: "Student Guide"
 lesson: 4
-parent: Lesson 4 — Danger and Game Over
+parent: "Coin Collector — Mission 4 — Danger and Game Over"
 ---
 
-# Lesson 4: Danger and Game Over
+# Mission 4: Danger and Game Over
 
 ## 🎯 Your mission
 
@@ -81,7 +81,7 @@ There is no single right answer.
 
 ---
 
-## 🏁 Lesson complete!
+## 🏁 Mission complete!
 
 I can...
 

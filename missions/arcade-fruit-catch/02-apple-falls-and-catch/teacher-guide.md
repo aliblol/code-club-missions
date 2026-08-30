@@ -1,7 +1,7 @@
 ---
 title: "Teacher Guide"
 lesson: 2
-parent: Lesson 2 — Apple Falls and Catch
+parent: "Apple Catch — Mission 2 — Apple Falls and Catch"
 ---
 
 # Teacher Guide — Lesson 2: Apple Falls and Catch

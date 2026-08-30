@@ -1,6 +1,7 @@
 ---
 title: Code Club Missions
 layout: home
+nav_order: 0
 ---
 
 # Code Club Missions

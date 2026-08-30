@@ -1,7 +1,7 @@
 ---
 title: "Teacher Guide"
 lesson: 4
-parent: Lesson 4 — Danger and Game Over
+parent: "Apple Catch — Mission 4 — Danger and Game Over"
 ---
 
 # Teacher Guide — Lesson 4: Danger and Game Over

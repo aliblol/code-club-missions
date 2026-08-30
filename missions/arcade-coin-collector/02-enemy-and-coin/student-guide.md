@@ -1,10 +1,10 @@
 ---
 title: "Student Guide"
 lesson: 2
-parent: Lesson 2 — Enemy and Coin
+parent: "Coin Collector — Mission 2 — Enemy and Coin"
 ---
 
-# Lesson 2: Enemy and Coin
+# Mission 2: Enemy and Coin
 
 ## 🎯 Your mission
 
@@ -79,7 +79,7 @@ There is no single right answer.
 
 ---
 
-## 🏁 Lesson complete!
+## 🏁 Mission complete!
 
 I can...
 

@@ -1,10 +1,10 @@
 ---
 title: "Student Guide"
 lesson: 2
-parent: Lesson 2 — Apple Falls and Catch
+parent: "Apple Catch — Mission 2 — Apple Falls and Catch"
 ---
 
-# Lesson 2: Apple Falls and Catch
+# Mission 2: Apple Falls and Catch
 
 ## 🎯 Your mission
 
@@ -81,7 +81,7 @@ There is no single right answer.
 
 ---
 
-## 🏁 Lesson complete!
+## 🏁 Mission complete!
 
 I can...
 

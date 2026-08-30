@@ -1,11 +1,11 @@
 ---
-title: "Lesson 3 — HUD and Rotten Apple"
+title: "Apple Catch — Mission 3 — HUD and Rotten Apple"
 layout: default
-parent: Arcade Game 2 — Apple Catch
+parent: "Apple Catch"
 nav_order: 3
 ---
 
-# Lesson 3 — HUD and Rotten Apple
+# Mission 3 — HUD and Rotten Apple
 
 **Game:** Apple Catch  
 **Time:** 45–60 minutes  
@@ -16,13 +16,6 @@ nav_order: 3
 ## What we're building today
 
 Catching apples scores points but there's no stakes yet. Today students add the heads-up display (score, lives, timer) and introduce a rotten apple that falls faster than the fresh one. The rotten apple looks dangerous but isn't yet — that comes next lesson.
-
----
-
-## Guides
-
-- [Student Guide](student-guide.md)
-- [Teacher Guide](teacher-guide.md)
 
 ---
 

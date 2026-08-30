@@ -1,10 +1,10 @@
 ---
 title: "Student Guide"
 lesson: 5
-parent: Lesson 5 — Messages and Coin Rain
+parent: "Coin Collector — Mission 5 — Messages and Coin Rain"
 ---
 
-# Lesson 5: Messages and Coin Rain
+# Mission 5: Messages and Coin Rain
 
 ## 🎯 Your mission
 
@@ -81,7 +81,7 @@ There is no single right answer.
 
 ---
 
-## 🏁 Lesson complete!
+## 🏁 Mission complete!
 
 I can...
 

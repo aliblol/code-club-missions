@@ -1,5 +1,5 @@
 ---
-title: "Arcade Game 1 — Coin Collector"
+title: "Coin Collector"
 layout: default
 nav_order: 2
 has_children: true

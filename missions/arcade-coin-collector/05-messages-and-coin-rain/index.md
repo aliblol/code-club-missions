@@ -1,11 +1,11 @@
 ---
-title: "Lesson 5 — Messages and Coin Rain"
+title: "Coin Collector — Mission 5 — Messages and Coin Rain"
 layout: default
-parent: Arcade Game 1 — Coin Collector
+parent: "Coin Collector"
 nav_order: 5
 ---
 
-# Lesson 5 — Messages and Coin Rain
+# Mission 5 — Messages and Coin Rain
 
 **Game:** Coin Collector  
 **Time:** 45–60 minutes  
@@ -18,13 +18,6 @@ nav_order: 5
 The game works but it starts abruptly and only ever has one coin. Today students add a welcome screen and feedback messages, then replace the single coin with an automatic loop that spawns a new coin every second.
 
 By the end of the lesson the game feels alive — it introduces itself, gives feedback when the player is hit, and keeps generating coins automatically.
-
----
-
-## Guides
-
-- [Student Guide](student-guide.md)
-- [Teacher Guide](teacher-guide.md)
 
 ---
 

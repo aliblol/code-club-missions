@@ -1,7 +1,7 @@
 ---
 title: "Teacher Guide"
 lesson: 2
-parent: Lesson 2 — Enemy and Coin
+parent: "Coin Collector — Mission 2 — Enemy and Coin"
 ---
 
 # Teacher Guide — Lesson 2: Enemy and Coin

@@ -1,10 +1,10 @@
 ---
 title: "Student Guide"
 lesson: 3
-parent: Lesson 3 — HUD and Rotten Apple
+parent: "Apple Catch — Mission 3 — HUD and Rotten Apple"
 ---
 
-# Lesson 3: HUD and Rotten Apple
+# Mission 3: HUD and Rotten Apple
 
 ## 🎯 Your mission
 
@@ -79,7 +79,7 @@ There is no single right answer.
 
 ---
 
-## 🏁 Lesson complete!
+## 🏁 Mission complete!
 
 I can...
 

@@ -1,11 +1,11 @@
 ---
-title: "Lesson 1 — Player and Movement"
+title: "Coin Collector — Mission 1 — Player and Movement"
 layout: default
-parent: Arcade Game 1 — Coin Collector
+parent: "Coin Collector"
 nav_order: 1
 ---
 
-# Lesson 1 — Player and Movement
+# Mission 1 — Player and Movement
 
 **Game:** Coin Collector  
 **Time:** 45–60 minutes  
@@ -18,13 +18,6 @@ nav_order: 1
 Every game starts with a player you can control. By the end of this lesson students will have a coloured background, a player sprite they designed themselves, and arrow-key controls that make the player bounce around the screen.
 
 This is the foundation the rest of the game is built on.
-
----
-
-## Guides
-
-- [Student Guide](student-guide.md)
-- [Teacher Guide](teacher-guide.md)
 
 ---
 

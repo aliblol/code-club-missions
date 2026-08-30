@@ -1,11 +1,11 @@
 ---
-title: "Lesson 2 — Enemy and Coin"
+title: "Coin Collector — Mission 2 — Enemy and Coin"
 layout: default
-parent: Arcade Game 1 — Coin Collector
+parent: "Coin Collector"
 nav_order: 2
 ---
 
-# Lesson 2 — Enemy and Coin
+# Mission 2 — Enemy and Coin
 
 **Game:** Coin Collector  
 **Time:** 45–60 minutes  
@@ -18,13 +18,6 @@ nav_order: 2
 A game with only a player is not much of a game. Today students add the two things that make Coin Collector interesting: an enemy that bounces around the screen automatically, and a coin to collect.
 
 By the end of the lesson the game has all three sprites on screen.
-
----
-
-## Guides
-
-- [Student Guide](student-guide.md)
-- [Teacher Guide](teacher-guide.md)
 
 ---
 

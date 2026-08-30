@@ -1,7 +1,7 @@
 ---
 title: "Teacher Guide"
 lesson: 3
-parent: Lesson 3 — HUD and Rotten Apple
+parent: "Apple Catch — Mission 3 — HUD and Rotten Apple"
 ---
 
 # Teacher Guide — Lesson 3: HUD and Rotten Apple

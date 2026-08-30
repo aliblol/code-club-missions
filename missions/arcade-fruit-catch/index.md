@@ -1,5 +1,5 @@
 ---
-title: "Arcade Game 2 — Apple Catch"
+title: "Apple Catch"
 layout: default
 nav_order: 3
 has_children: true

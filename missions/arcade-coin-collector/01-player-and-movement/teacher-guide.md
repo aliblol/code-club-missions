@@ -1,7 +1,7 @@
 ---
 title: "Teacher Guide"
 lesson: 1
-parent: Lesson 1 — Player and Movement
+parent: "Coin Collector — Mission 1 — Player and Movement"
 ---
 
 # Teacher Guide — Lesson 1: Player and Movement

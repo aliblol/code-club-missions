@@ -1,10 +1,10 @@
 ---
 title: "Student Guide"
 lesson: 5
-parent: Lesson 5 — Apple and Rotten Apple Rain
+parent: "Apple Catch — Mission 5 — Apple and Rotten Apple Rain"
 ---
 
-# Lesson 5: Apple and Rotten Apple Rain
+# Mission 5: Apple and Rotten Apple Rain
 
 ## 🎯 Your mission
 
@@ -77,7 +77,7 @@ There is no single right answer.
 
 ---
 
-## 🏁 Lesson complete!
+## 🏁 Mission complete!
 
 I can...
 

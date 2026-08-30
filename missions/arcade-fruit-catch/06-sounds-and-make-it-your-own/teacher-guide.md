@@ -1,7 +1,7 @@
 ---
 title: "Teacher Guide"
 lesson: 6
-parent: Lesson 6 — Sounds and Make It Your Own
+parent: "Apple Catch — Mission 6 — Sounds and Make It Your Own"
 ---
 
 # Teacher Guide — Lesson 6: Sounds and Make It Your Own

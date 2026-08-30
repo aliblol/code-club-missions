@@ -1,10 +1,10 @@
 ---
 title: "Student Guide"
 lesson: 6
-parent: Lesson 6 — Sounds and Make It Your Own
+parent: "Apple Catch — Mission 6 — Sounds and Make It Your Own"
 ---
 
-# Lesson 6: Sounds and Make It Your Own
+# Mission 6: Sounds and Make It Your Own
 
 ## 🎯 Your mission
 
@@ -84,7 +84,7 @@ There is no single right answer.
 
 ---
 
-## 🏁 Lesson complete!
+## 🏁 Mission complete!
 
 I can...
 
