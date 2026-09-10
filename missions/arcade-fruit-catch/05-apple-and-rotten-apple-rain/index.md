@@ -23,6 +23,28 @@ By the end of the lesson the game generates its own content forever — fresh ap
 
 ## Starting code
 
-The `main.ts` in this folder contains the complete game loop from Lesson 4, including game over conditions and messages.
+{% include code-import.html %}
 
-Load it into [MakeCode Arcade](https://arcade.makecode.com) and continue building.
+```typescript
+// Apple Catch — Lesson 5 Starter
+// This is where Lesson 4 ended: the game can be won AND lost, with messages.
+// Your mission: replace the single apple and rotten apple with continuous rain loops!
+
+scene.setBackgroundColor(6)
+
+let player = sprites.create(img`
+    . . f f f f . .
+    . f 2 2 2 2 f .
+    f 2 f f f f 2 f
+    f 2 f . . f 2 f
+    f 2 f f f f 2 f
+    . f 2 2 2 2 f .
+    . . f f f f . .
+    `, SpriteKind.Player)
+
+info.setScore(0)
+info.setLife(3)
+info.startCountdown(30)
+```
+
+Follow the student guide to add spawn loops for apples and rotten apples.

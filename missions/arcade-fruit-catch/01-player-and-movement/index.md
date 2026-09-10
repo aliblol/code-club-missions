@@ -23,6 +23,14 @@ This is the foundation the rest of the game is built on.
 
 ## Starting code
 
-The `main.ts` in this folder is the **starter file** — a blank background to begin from.
+{% include code-import.html %}
 
-Load it into [MakeCode Arcade](https://arcade.makecode.com) and follow the student guide.
+```typescript
+// Apple Catch — Lesson 1 Starter
+// Load this into MakeCode Arcade: https://arcade.makecode.com
+// Your mission: create a player at the bottom and make it move left and right!
+
+scene.setBackgroundColor(6)
+```
+
+Follow the student guide to add sprites and controls.

@@ -23,6 +23,29 @@ By the end of the lesson the game has both a win condition (timer runs out) and 
 
 ## Starting code
 
-The `main.ts` in this folder contains the HUD and coin collection from Lesson 3.
+{% include code-import.html %}
 
-Load it into [MakeCode Arcade](https://arcade.makecode.com) and continue building.
+```typescript
+// Coin Collector — Lesson 4 Starter
+// This is where Lesson 3 ended: HUD is active and collecting coins works.
+// Your mission: make the enemy dangerous and add a proper lose condition!
+
+scene.setBackgroundColor(9)
+
+let player = sprites.create(img`
+    . . . . . . 2 2 2 2 2 . . . . .
+    . . . . . . 2 2 2 2 2 . . . . .
+    . . . 2 2 2 2 2 2 2 2 2 . . . .
+    . . . 2 2 2 2 2 2 2 2 2 . . . .
+    . . . 2 2 2 2 2 2 2 2 2 . . . .
+    . . . . 2 2 2 2 2 2 2 . . . . .
+    . . . . . . . . . . . . . . . .
+    . . . . . . . . . . . . . . . .
+    `, SpriteKind.Player)
+
+info.setScore(0)
+info.setLife(3)
+info.startCountdown(30)
+```
+
+Follow the student guide to add enemy danger detection and game over conditions.

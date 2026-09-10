@@ -23,6 +23,14 @@ This is the foundation the rest of the game is built on.
 
 ## Starting code
 
-The `main.ts` in this folder is the **starter file** — a blank background to begin from.
+{% include code-import.html %}
 
-Load it into [MakeCode Arcade](https://arcade.makecode.com) and follow the student guide.
+```typescript
+// Coin Collector — Lesson 1 Starter
+// Load this into MakeCode Arcade: https://arcade.makecode.com
+// Your mission: create a player sprite and make it move!
+
+scene.setBackgroundColor(9)
+```
+
+Follow the student guide to add sprites and controls to the code above.

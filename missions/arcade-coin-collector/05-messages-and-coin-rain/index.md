@@ -23,6 +23,31 @@ By the end of the lesson the game feels alive — it introduces itself, gives fe
 
 ## Starting code
 
-The `main.ts` in this folder contains the complete game loop from Lesson 4 — player, enemy, coin, HUD, and both win and lose conditions.
+{% include code-import.html %}
 
-Load it into [MakeCode Arcade](https://arcade.makecode.com) and continue building.
+```typescript
+// Coin Collector — Lesson 5 Starter
+// This is where Lesson 4 ended: the game can be won AND lost.
+// Your mission: add a welcome screen, a hit message, and coin rain!
+
+game.splash("Coin Collector!!")
+
+scene.setBackgroundColor(9)
+
+let player = sprites.create(img`
+    . . . . . . 2 2 2 2 2 . . . . .
+    . . . . . . 2 2 2 2 2 . . . . .
+    . . . 2 2 2 2 2 2 2 2 2 . . . .
+    . . . 2 2 2 2 2 2 2 2 2 . . . .
+    . . . 2 2 2 2 2 2 2 2 2 . . . .
+    . . . . 2 2 2 2 2 2 2 . . . . .
+    . . . . . . . . . . . . . . . .
+    . . . . . . . . . . . . . . . .
+    `, SpriteKind.Player)
+
+info.setScore(0)
+info.setLife(3)
+info.startCountdown(30)
+```
+
+Follow the student guide to add splash screens, messages, and coin rain loops.

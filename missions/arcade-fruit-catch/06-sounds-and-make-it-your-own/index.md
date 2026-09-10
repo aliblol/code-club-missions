@@ -23,6 +23,28 @@ There are no new required concepts — this is a design session where students e
 
 ## Starting code
 
-The `main.ts` in this folder contains the full Apple Catch game with both spawn loops from Lesson 5.
+{% include code-import.html %}
 
-Load it into [MakeCode Arcade](https://arcade.makecode.com) and make it your own.
+```typescript
+// Apple Catch — Lesson 6 Starter
+// This is where Lesson 5 ended: fresh apples rain every 2s, rotten apples every 3s.
+// Your mission: add sounds and effects, then make it your own!
+
+scene.setBackgroundColor(6)
+
+let player = sprites.create(img`
+    . . f f f f . .
+    . f 2 2 2 2 f .
+    f 2 f f f f 2 f
+    f 2 f . . f 2 f
+    f 2 f f f f 2 f
+    . f 2 2 2 2 f .
+    . . f f f f . .
+    `, SpriteKind.Player)
+
+info.setLife(3)
+info.setScore(0)
+info.startCountdown(30)
+```
+
+Follow the student guide to add sounds and customize your game!
