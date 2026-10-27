@@ -1,10 +1,10 @@
 ---
 title: "Student Guide"
-lesson: 6
-parent: "Coin Collector — Mission 6 — Sounds and Make It Your Own"
+lesson: 9
+parent: "Coin Collector — Mission 9 — Sounds and Make It Your Own"
 ---
 
-# Mission 6: Sounds and Make It Your Own
+# Mission 9: Sounds and Make It Your Own
 
 ## 🎯 Your mission
 
@@ -24,7 +24,7 @@ This means we are learning how every sound is triggered by an event — collecti
 
 ## 🔎 Explore
 
-Open the starter `main.ts` (the full Coin Collector game from Lesson 5).
+Open the starter `main.ts` (the full Coin Collector game from Mission 8).
 
 1. Where in MakeCode can you play a sound? Look in the **Music** section.
 2. What is the difference between `play sound` and `play sound until done`? Try both in the collect event.
@@ -88,4 +88,4 @@ I can...
 
 - [ ] Add sound effects triggered by game events
 - [ ] Customise and extend the game beyond the base version
-- [ ] Name the programming concepts I used across the six lessons
+- [ ] Name the programming concepts I used across the nine missions

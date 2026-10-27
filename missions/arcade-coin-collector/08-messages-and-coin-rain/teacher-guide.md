@@ -1,10 +1,10 @@
 ---
 title: "Teacher Guide"
-lesson: 5
-parent: "Coin Collector — Mission 5 — Messages and Coin Rain"
+lesson: 8
+parent: "Coin Collector — Mission 8 — Messages and Coin Rain"
 ---
 
-# Teacher Guide — Lesson 5: Messages and Coin Rain
+# Teacher Guide — Mission 8: Messages and Coin Rain
 
 Session goals
 - Add a welcome splash screen and a "lives remaining" hit message.
@@ -27,7 +27,7 @@ Assessment
 - Does the coin loop create new coins automatically without any respawn code in the overlap?
 
 Notes
-- The completed code from this lesson is the `main.ts` in the lesson 6 folder.
+- The completed code from this mission is the `main.ts` in Mission 9's folder.
 
 - Use `game.splash` and `game.showLongText` for title and feedback screens
 - Join strings and numbers with `+` (string concatenation)
@@ -89,4 +89,4 @@ sprites.onOverlap(SpriteKind.Player, SpriteKind.Food, function (sprite, otherSpr
 
 ## Notes
 
-- The completed state of this lesson is the `main.ts` in lesson 6's folder
+- The completed state of this mission is the `main.ts` in Mission 9's folder

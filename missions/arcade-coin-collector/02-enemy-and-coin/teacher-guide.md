@@ -29,7 +29,7 @@ Assessment
 - Do they understand why random positions make the game more interesting?
 
 Notes
-- The completed code from this lesson is the `main.ts` in the lesson 3 folder.
+- The completed code from this lesson is the `main.ts` in the Mission 3 folder.
 
 ## Setup
 
@@ -76,4 +76,4 @@ coin.setPosition(Math.randomRange(10, 150), Math.randomRange(10, 110))
 
 ## Notes
 
-- The completed state of this lesson is the `main.ts` in lesson 3's folder
+- The completed state of this lesson is the `main.ts` in Mission 3's folder

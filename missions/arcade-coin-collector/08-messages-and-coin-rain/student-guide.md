@@ -1,10 +1,10 @@
 ---
 title: "Student Guide"
-lesson: 5
-parent: "Coin Collector — Mission 5 — Messages and Coin Rain"
+lesson: 8
+parent: "Coin Collector — Mission 8 — Messages and Coin Rain"
 ---
 
-# Mission 5: Messages and Coin Rain
+# Mission 8: Messages and Coin Rain
 
 ## 🎯 Your mission
 
@@ -24,7 +24,7 @@ This means we are learning how to repeat an action automatically on a timer so t
 
 ## 🔎 Explore
 
-Open your project from Lesson 4 (or load the starter `main.ts`).
+Open your project from Mission 7 (or load the starter `main.ts`).
 
 1. Where in MakeCode can you show a full-screen message that pauses the game until the player presses a button?
 2. Look at `"Lives left: " + info.life()` — what do you think `+` does here? What is `info.life()`?

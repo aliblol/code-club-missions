@@ -1,11 +1,11 @@
 ---
-title: "Coin Collector — Mission 6 — Sounds and Make It Your Own"
+title: "Coin Collector — Mission 9 — Sounds and Make It Your Own"
 layout: default
 parent: "Coin Collector"
-nav_order: 6
+nav_order: 9
 ---
 
-# Mission 6 — Sounds and Make It Your Own
+# Mission 9 — Sounds and Make It Your Own
 
 **Game:** Coin Collector  
 **Time:** 45–60 minutes  
@@ -26,8 +26,8 @@ There are no new required concepts — this is a design session where students e
 {% include code-import.html %}
 
 ```typescript
-// Coin Collector — Lesson 6 Starter
-// This is where Lesson 5 ended: welcome screen, hit messages, and coin rain.
+// Coin Collector — Mission 9 Starter
+// This is where Mission 8 ended: welcome screen, hit messages, and coin rain.
 // Your mission: add sounds, then make the game your own!
 
 game.splash("Coin Collector!!")

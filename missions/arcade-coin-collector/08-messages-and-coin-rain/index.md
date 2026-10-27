@@ -1,11 +1,11 @@
 ---
-title: "Coin Collector — Mission 5 — Messages and Coin Rain"
+title: "Coin Collector — Mission 8 — Messages and Coin Rain"
 layout: default
 parent: "Coin Collector"
-nav_order: 5
+nav_order: 8
 ---
 
-# Mission 5 — Messages and Coin Rain
+# Mission 8 — Messages and Coin Rain
 
 **Game:** Coin Collector  
 **Time:** 45–60 minutes  
@@ -26,8 +26,8 @@ By the end of the lesson the game feels alive — it introduces itself, gives fe
 {% include code-import.html %}
 
 ```typescript
-// Coin Collector — Lesson 5 Starter
-// This is where Lesson 4 ended: the game can be won AND lost.
+// Coin Collector — Mission 8 Starter
+// This is where Mission 7 ended: the game can be won AND lost.
 // Your mission: add a welcome screen, a hit message, and coin rain!
 
 game.splash("Coin Collector!!")

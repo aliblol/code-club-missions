@@ -1,10 +1,10 @@
 ---
 title: "Teacher Guide"
-lesson: 6
-parent: "Coin Collector — Mission 6 — Sounds and Make It Your Own"
+lesson: 9
+parent: "Coin Collector — Mission 9 — Sounds and Make It Your Own"
 ---
 
-# Teacher Guide — Lesson 6: Sounds and Make It Your Own
+# Teacher Guide — Mission 9: Sounds and Make It Your Own
 
 Session goals
 - Add audio feedback to game events (cause and effect).
@@ -32,7 +32,7 @@ Notes
 - Add audio feedback to game events (cause and effect)
 - Understand `play sound` (non-blocking) vs `play sound until done` (blocking)
 - Apply all concepts from the series independently in a free design session
-- Name and explain the programming concepts encountered across the six lessons
+- Name and explain the programming concepts encountered across the nine missions
 
 ## Setup
 

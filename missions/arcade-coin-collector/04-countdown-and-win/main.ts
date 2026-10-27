@@ -1,6 +1,6 @@
-// Coin Collector — Lesson 3 Starter
-// This is where Lesson 2 ended: player, enemy, and coin are all on screen.
-// Your mission: add a score, lives, timer, and make the coin collectible!
+// Coin Collector — Mission 4 Starter
+// This is where Mission 3 ended: the score and lives display is ready.
+// Your mission: add a countdown and a win ending!
 
 scene.setBackgroundColor(9)
 
@@ -43,3 +43,6 @@ let coin = sprites.create(img`
     . . . . . . . . . . . . . . . .
     `, SpriteKind.Food)
 coin.setPosition(Math.randomRange(10, 150), Math.randomRange(10, 110))
+
+info.setScore(0)
+info.setLife(3)

@@ -1,6 +1,34 @@
-// Coin Collector — Lesson 4 Starter
-// This is where Lesson 3 ended: HUD is active and collecting coins works.
-// Your mission: make the enemy dangerous and add a proper lose condition!
+---
+title: "Coin Collector — Mission 3 — Add the HUD"
+layout: default
+parent: "Coin Collector"
+nav_order: 3
+---
+
+# Mission 3 — Add the HUD
+
+**Game:** Coin Collector  
+**Time:** 20 minutes  
+**Concepts:** The Info system, game state
+
+---
+
+## What we're building today
+
+Today students add the heads-up display (HUD): a score and lives counter.
+
+By the end, the score and lives display on screen. The next mission adds a countdown timer.
+
+---
+
+## Starting code
+
+{% include code-import.html %}
+
+```typescript
+// Coin Collector — Mission 3 Starter
+// This is where Mission 2 ended: player, enemy, and coin are all on screen.
+// Your mission: add a score and lives display!
 
 scene.setBackgroundColor(9)
 
@@ -43,27 +71,6 @@ let coin = sprites.create(img`
     . . . . . . . . . . . . . . . .
     `, SpriteKind.Food)
 coin.setPosition(Math.randomRange(10, 150), Math.randomRange(10, 110))
+```
 
-info.setScore(0)
-info.setLife(3)
-info.startCountdown(30)
-
-sprites.onOverlap(SpriteKind.Player, SpriteKind.Food, function (sprite, otherSprite) {
-    info.changeScoreBy(1)
-    sprites.destroy(otherSprite)
-    let newCoin = sprites.create(img`
-        . . . . . . 8 8 8 8 8 . . . . .
-        . . . . . . 8 8 8 8 8 . . . . .
-        . . . 8 8 8 8 8 8 8 8 8 . . . .
-        . . . 8 8 8 8 8 8 8 8 8 . . . .
-        . . . 8 8 8 8 8 8 8 8 8 . . . .
-        . . . . 8 8 8 8 8 8 8 . . . . .
-        . . . . . . . . . . . . . . . .
-        . . . . . . . . . . . . . . . .
-        `, SpriteKind.Food)
-    newCoin.setPosition(Math.randomRange(10, 150), Math.randomRange(10, 110))
-})
-
-info.onCountdownEnd(function () {
-    game.over(true, effects.confetti)
-})
+Follow the student guide to add the HUD.

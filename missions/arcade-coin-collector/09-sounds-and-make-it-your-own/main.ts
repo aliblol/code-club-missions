@@ -1,6 +1,8 @@
-// Coin Collector — Lesson 5 Starter
-// This is where Lesson 4 ended: the game can be won AND lost.
-// Your mission: add a welcome screen, a hit message, and coin rain!
+// Coin Collector — Mission 9 Starter
+// This is where Mission 8 ended: welcome screen, hit messages, and coin rain.
+// Your mission: add sounds, then make the game your own!
+
+game.splash("Coin Collector!!")
 
 scene.setBackgroundColor(9)
 
@@ -32,26 +34,13 @@ enemy.setPosition(Math.randomRange(10, 150), Math.randomRange(10, 110))
 enemy.setVelocity(50, 50)
 enemy.setBounceOnWall(true)
 
-let coin = sprites.create(img`
-    . . . . . . 8 8 8 8 8 . . . . .
-    . . . . . . 8 8 8 8 8 . . . . .
-    . . . 8 8 8 8 8 8 8 8 8 . . . .
-    . . . 8 8 8 8 8 8 8 8 8 . . . .
-    . . . 8 8 8 8 8 8 8 8 8 . . . .
-    . . . . 8 8 8 8 8 8 8 . . . . .
-    . . . . . . . . . . . . . . . .
-    . . . . . . . . . . . . . . . .
-    `, SpriteKind.Food)
-coin.setPosition(Math.randomRange(10, 150), Math.randomRange(10, 110))
-
 info.setScore(0)
 info.setLife(3)
 info.startCountdown(30)
 
-sprites.onOverlap(SpriteKind.Player, SpriteKind.Food, function (sprite, otherSprite) {
-    info.changeScoreBy(1)
-    sprites.destroy(otherSprite)
-    let newCoin = sprites.create(img`
+// Loop: a new coin appears every 1 second
+game.onUpdateInterval(1000, function () {
+    let coin = sprites.create(img`
         . . . . . . 8 8 8 8 8 . . . . .
         . . . . . . 8 8 8 8 8 . . . . .
         . . . 8 8 8 8 8 8 8 8 8 . . . .
@@ -61,13 +50,19 @@ sprites.onOverlap(SpriteKind.Player, SpriteKind.Food, function (sprite, otherSpr
         . . . . . . . . . . . . . . . .
         . . . . . . . . . . . . . . . .
         `, SpriteKind.Food)
-    newCoin.setPosition(Math.randomRange(10, 150), Math.randomRange(10, 110))
+    coin.setPosition(Math.randomRange(10, 150), Math.randomRange(10, 110))
+})
+
+sprites.onOverlap(SpriteKind.Player, SpriteKind.Food, function (sprite, otherSprite) {
+    info.changeScoreBy(1)
+    sprites.destroy(otherSprite)
 })
 
 sprites.onOverlap(SpriteKind.Player, SpriteKind.Enemy, function (sprite, otherSprite) {
     info.changeLifeBy(-1)
     pause(500)
     if (info.life() > 0) {
+        game.splash("Try again! Lives left: " + info.life())
         sprite.setPosition(80, 60)
     }
 })

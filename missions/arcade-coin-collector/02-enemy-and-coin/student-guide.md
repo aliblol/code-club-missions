@@ -54,7 +54,7 @@ Make the enemy start at a different position each time the game loads.
 
 ### ⭐⭐⭐ Challenge 3 — Add the coin
 
-Create a third sprite of kind **Food**, draw a coin or gem, and place it at a random position on screen. The coin stays still for now — you will make it collectible in Lesson 3.
+Create a third sprite of kind **Food**, draw a coin or gem, and place it at a random position on screen. The coin stays still for now — you will make it collectible in Mission 5.
 
 ---
 
